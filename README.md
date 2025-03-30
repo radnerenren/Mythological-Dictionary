@@ -1,4 +1,4 @@
-# Mythological-Dictionary
+# Mythological-Dictionary.py
 Python Dictionary Terms and Descriptions of Mythological Gods and Creatures
 
 Video of how i created the code
